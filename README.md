@@ -6,7 +6,7 @@
 - 📫 How to reach me: 928965406@qq.com
 - 👀 [my resume](https://github.com/huxianc/resume)
 
-[![huxianc's github stats](https://github-readme-stats.vercel.app/api?username=huxianc&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![huxianc's github stats](https://github-readme-stats.vercel.app/api?username=huxianc&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huxianc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
